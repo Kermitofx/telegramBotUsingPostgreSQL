@@ -4,7 +4,7 @@ import logging
 
 # init the tgBot.
 # Acces_token is env var in Heroku config.
-telegramBot = telebot.TeleBot(str(os.environ.get('ACCSES_TOKEN')))
+telegramBot = telebot.TeleBot("965202811:AAExpn4ukCEPBiNYfsV3RVVeZzxrcuk652k" )
 
 
 
